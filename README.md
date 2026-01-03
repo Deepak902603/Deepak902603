@@ -115,7 +115,7 @@ Clean Code
 
 ## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak902603&layout=compact&theme=nightowl" />
+  <img src="Skills_Animation_White (1).gif" />
 </p>
 
 ---
