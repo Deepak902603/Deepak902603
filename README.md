@@ -28,6 +28,35 @@ I enjoy building real-world projects and continuously improving my
 - 🌱 Currently learning **Backend Development & System Design**
 - 🔥 Interested in **React, Node.js, MongoDB & AI**
 - 💡 Love building scalable and clean applications
+- 🧠 Strong foundation in Data Structures, Algorithms & OOP concepts
+
+⚙️ Hands-on experience building RESTful APIs and full-stack applications
+
+🧪 Worked on Machine Learning projects including sentiment analysis & prediction models
+
+🧩 Comfortable with problem-solving, debugging, and code optimization
+
+🛠 Experience using Git & GitHub for version control and collaboration
+
+📦 Familiar with MongoDB Compass and database design principles
+
+🎯 Passionate about writing clean, maintainable, and scalable code
+
+🚀 Experience developing real-world projects from idea to deployment
+
+🧑‍💻 Actively practicing JavaScript & React for modern web development
+
+🔐 Basic understanding of authentication, authorization & security concepts
+
+📊 Exposure to Power BI & data visualization fundamentals
+
+🤝 Comfortable working in team environments and Agile workflows
+
+📚 Continuous learner who enjoys exploring new technologies and frameworks
+
+🧑‍🏫 Able to understand requirements and convert them into technical solutions
+
+🌐 Interested in cloud concepts and backend scalability
 
 </td>
 
