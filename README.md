@@ -104,12 +104,49 @@ Clean Code
 </p>
 
 ---
+## 🚀 Projects
 
-## 📊 GitHub Stats
+---
+
+### 🛍 Gift Mart – E-Commerce Web Application
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepak902603&show_icons=true&theme=nightowl" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak902603&theme=nightowl" />
+  <img src="https://raw.githubusercontent.com/Deepak902603/Deepak902603/main/assets/gift-mart.gif" alt="Gift Mart Project Preview" />
 </p>
+
+- Built a full-featured **e-commerce platform** with product listing, cart, wishlist & checkout  
+- Developed responsive UI using **React.js, Tailwind CSS & Bootstrap**  
+- Implemented **localStorage-based cart & wishlist persistence**  
+- Added **coupon system, dynamic pricing & quantity management**  
+
+**Tech Stack:** React.js, JavaScript, Tailwind CSS, Bootstrap
+
+---
+
+### 🚗 Vehicle Tech Solutions – Service Management System
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepak902603/Deepak902603/main/assets/vehicle-tech.gif" alt="Vehicle Tech Solutions Project Preview" />
+</p>
+
+- Designed a **vehicle service & maintenance management system**  
+- Implemented **service booking, tracking & customer data management**  
+- Built backend logic using **CRUD operations and MongoDB**  
+
+**Tech Stack:** Node.js, JavaScript, MongoDB, HTML, CSS
+
+---
+
+### 🍔 Food Delivery App – Online Ordering Platform
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepak902603/Deepak902603/main/assets/food-delivery.gif" alt="Food Delivery App Project Preview" />
+</p>
+
+- Developed an online food ordering application with **restaurant & menu listing**  
+- Implemented **cart, order summary & price calculation**  
+- Designed **mobile-friendly responsive UI**  
+
+**Tech Stack:** React.js, JavaScript, HTML, CSS, Bootstrap
+
+
 
 ---
 
