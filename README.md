@@ -110,7 +110,7 @@ Clean Code
 
 ### 🛍 Gift Mart – E-Commerce Web Application
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepak902603/Deepak902603/main/assets/gift-mart.gif" alt="Gift Mart Project Preview" />
+  <img src="project_1.png" />
 </p>
 
 - Built a full-featured **e-commerce platform** with product listing, cart, wishlist & checkout  
@@ -124,7 +124,7 @@ Clean Code
 
 ### 🚗 Vehicle Tech Solutions – Service Management System
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepak902603/Deepak902603/main/assets/vehicle-tech.gif" alt="Vehicle Tech Solutions Project Preview" />
+  <img src="project_2.png" />
 </p>
 
 - Designed a **vehicle service & maintenance management system**  
@@ -137,7 +137,7 @@ Clean Code
 
 ### 🍔 Food Delivery App – Online Ordering Platform
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepak902603/Deepak902603/main/assets/food-delivery.gif" alt="Food Delivery App Project Preview" />
+  <img src="project_3.png" />
 </p>
 
 - Developed an online food ordering application with **restaurant & menu listing**  
@@ -186,15 +186,15 @@ Clean Code
   <img src="./github.png" width="45" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+<a href="https://www.linkedin.com/in/deepak-ranjan-rath-756b1a384/">
   <img src="./linkedin.png" width="45" />
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_ID">
+<a href="https://www.instagram.com/">
   <img src="./instagram.png" width="45" />
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER_ID">
+<a href="https://twitter.com/">
   <img src="./twitter.png" width="45" />
 </a>
 
