@@ -13,7 +13,6 @@
 
 # 👋 Hi, I'm Deepak Ranjan Rath  
 ### 💻 Software Developer | Full Stack Learner | ML Enthusiast  
-
 I am a passionate **Software Developer** with hands-on experience in  
 **Java, JavaScript, React, MongoDB, and Machine Learning**.  
 I enjoy building real-world projects and continuously improving my  
@@ -101,7 +100,7 @@ Clean Code
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,html,css,bootstrap,git,github,python" />
+  <img src="Skills_Animation_Dark (1).gif" />
 </p>
 
 ---
