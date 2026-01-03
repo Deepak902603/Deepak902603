@@ -23,6 +23,7 @@ I enjoy building real-world projects and continuously improving my
 
 ## 🚀 About Me
 - 🎓 MCA Graduate (**GIFT Autonomous, Bhubaneswar**)
+- 🎓 BSc Physics (**Utkal University, Bhubaneswar**)
 - 💼 Former Intern at **Moovon Service & Solutions Pvt. Ltd.**
 - 🌱 Currently learning **Backend Development & System Design**
 - 🔥 Interested in **React, Node.js, MongoDB & AI**
@@ -32,7 +33,28 @@ I enjoy building real-world projects and continuously improving my
 
 <td width="35%" valign="top" align="center">
 
-<img src="./profile.png" width="100%" style="border-radius:12px;" />
+<img src="./profile.png" width="100%" style="border-radius:14px;" />
+
+<br/><br/>
+
+### 📍 Location  
+Bhubaneswar, Odisha, India  
+
+<br/>
+
+### 🎯 Focus Areas  
+Backend Development  
+System Design  
+Clean Code  
+
+<br/>
+
+### ⚡ Motto  
+*Build. Learn. Improve.*
+
+<br/><br/>
+
+<hr width="80%" />
 
 </td>
 
@@ -78,12 +100,9 @@ I enjoy building real-world projects and continuously improving my
 ---
 
 ## ✨ Thought of the Day
-
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?quote=Loading...&author=Loading...&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
